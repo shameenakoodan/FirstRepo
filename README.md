@@ -1,7 +1,7 @@
 # Cloud 
 
 ## What
-    Cloud is a  massive network of computers owned by different providers like AWS\
+    Cloud is a  massive network of computers owned by different providers like AWS
     Azure and GCP which we pay for and use to deploy our applications.\
 ## How
     Deployed a nodejs application with MongoDB on AWS. Currently working on a React\  application that should be deployed on AWS and to use AWS s3 bucket for storing  files.
